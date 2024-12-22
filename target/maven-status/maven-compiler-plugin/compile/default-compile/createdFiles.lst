@@ -1,0 +1,5 @@
+com\example\banque\Compte.class
+com\example\banque\Server.class
+com\example\banque\BanqueService.class
+com\example\banque\BanqueClient.class
+com\example\banque\BanqueServiceImpl.class
